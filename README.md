@@ -2,7 +2,7 @@
 <h3 align="center">A student from Germany passionatly learning programming</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a Minecraft Launcher<br>🌱 I’m currently learning JavaScript and the fundamentals of Programming<br>💬 Ask me about Discord Bots and I will do my best to answer you<br>⚡ Fun fact: I like minecraft
+🔭 I’m currently working on a Minecraft Launcher<br>🌱 I’m currently learning JavaScript and the fundamentals of Programming<br>💬 Ask me about Discord Bots and I will do my best to answer you<br>⚡ Fun fact: I love One Piece
 
 
 # 💻 Tech Stack:
